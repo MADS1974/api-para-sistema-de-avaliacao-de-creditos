@@ -39,11 +39,15 @@
 </ol>
 <h6>** Visando facilitar a demostração da aplicação, recomendo instalar apenas o IntelliJ IDEA e executar o projeto através da IDE **</h6>
 
+<h3>Recriando o Projeto</h3>
 
 <a href="https://drive.google.com/file/d/1wxwioDHS1sKFPq4G7b24tVZb-XMnoj-l/view?usp=share_link"> 🚀 Collection Sacola API - Postman</a><br>
 
+<h3>Recriado por MADS1974</h3>
 
-<h3>Autor</h3>
+[![Linkedin Badge](https://img.shields.io/badge/-Márcio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mads1974/)](https://www.linkedin.com/in/mads1974/)
+
+<h3>Autor ORIGINAL </h3>
 
 <a href="https://www.linkedin.com/in/cami-la/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64323124?v=4" width="100px;" alt=""/>
